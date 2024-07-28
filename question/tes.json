@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Siapakah yang memproklamasikan kemerdekaan Indonesia?",
+        "a": "Soekarno",
+        "b": "Suharto",
+        "c": "Mohammad Hatta",
+        "d": "Sultan Hamengkubuwono IX",
+        "correct": "a"
+    },
+    {
+        "question": "Kapan Indonesia merdeka?",
+        "a": "17 Agustus 1945",
+        "b": "17 Agustus 1946",
+        "c": "17 Agustus 1944",
+        "d": "17 Agustus 1947",
+        "correct": "a"
+    },
+    {
+        "question": "Di manakah proklamasi kemerdekaan Indonesia dibacakan?",
+        "a": "Jakarta",
+        "b": "Bandung",
+        "c": "Surabaya",
+        "d": "Yogyakarta",
+        "correct": "a"
+    }
+]
